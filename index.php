@@ -73,7 +73,7 @@
                 <div class="col-sm-7">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>Pratice your times tables online with Multipli</h1>
+                            <h1>Practice your times tables online with Multipli</h1>
                             <a href="login/signup.php" class="btn btn-outline btn-xl page-scroll">Start Now for Free!</a>
                         </div>
                     </div>
