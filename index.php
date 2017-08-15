@@ -58,7 +58,7 @@
                         <a class="page-scroll" href="login/signup.php">Sign Up</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="login/main_login.php">Log In</a>
+                        <a class="page-scroll" href="home.php">My Account</a>
                     </li>
                 </ul>
             </div>
